@@ -18,7 +18,8 @@ ps / cmd commands
     .\_build\html\index.html
 
 git
-
+    git remote add origin https://github.com/clopez027/documentation-management.git
+    git push -u origin master
 
 config
     html_theme = 'sphinx_rtd_theme'
