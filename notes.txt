@@ -1,0 +1,24 @@
+# Outline
+
+sources
+readthedocs.org
+
+ps / cmd commands
+    pip install sphinx
+    pip install rtd_theme
+    
+    mkdir 'name'
+    cd 'name'
+    sphinx-quickstart
+
+    Project name: 'name'
+    Auther name(s): Carlos Lopez
+
+    .\make html
+    .\_build\html\index.html
+
+git
+
+
+config
+    html_theme = 'sphinx_rtd_theme'
