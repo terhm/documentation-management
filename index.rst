@@ -14,7 +14,7 @@ Welcome to Documentation Management!
    :hidden:
    :caption: Templates:
 
-   Template/overview
+   Templates/overview
 
 .. toctree::
    :maxdepth: 2
