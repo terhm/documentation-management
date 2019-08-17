@@ -7,7 +7,8 @@ Welcome to Documentation Management!
 ====================================
 
 .. note::
-   include info here
+    only 'master' branch exists for this project
+    committing to the master will publish updates.
 
 .. toctree::
    :maxdepth: 2
